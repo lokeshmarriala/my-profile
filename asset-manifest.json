@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-profile/static/css/main.c07ee061.css",
+    "main.js": "/my-profile/static/js/main.81ffdf18.js",
+    "static/media/Lokesh Marriala.pdf": "/my-profile/static/media/Lokesh Marriala.21d4980a2c88b31463f7.pdf",
+    "static/media/Android.svg.png": "/my-profile/static/media/Android.svg.8a81ac4da2816855eac7.png",
+    "static/media/Photo.png": "/my-profile/static/media/Photo.82dfb232e632e1ef0db4.png",
+    "static/media/Photo1.jpg": "/my-profile/static/media/Photo1.c0b0089fdba9aa5b6eee.jpg",
+    "static/media/1.jpg": "/my-profile/static/media/1.2a64eedc8c18c2993801.jpg",
+    "static/media/development.jpg": "/my-profile/static/media/development.e80f9e41ff8c93bbc540.jpg",
+    "index.html": "/my-profile/index.html",
+    "main.c07ee061.css.map": "/my-profile/static/css/main.c07ee061.css.map",
+    "main.81ffdf18.js.map": "/my-profile/static/js/main.81ffdf18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c07ee061.css",
+    "static/js/main.81ffdf18.js"
+  ]
+}
